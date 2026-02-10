@@ -3,9 +3,9 @@
 # --- 1. Apresentação e Regras ---
 
 # Usamos a função print() para exibir mensagens na tela (Saída Padrão).
-print("------------------------------------------------------")
+print("-"*30)
 print("--- Jogo Pedra, Papel e Tesoura (2 Jogadores) ---")
-print("------------------------------------------------------")
+print("-"*30)
 print("Bem-vindos! Cada jogador deve escolher uma das opções.")
 
 # Usamos uma tupla para armazenar as opções válidas.
@@ -61,5 +61,6 @@ elif (jogada_jogador1 == "pedra" and jogada_jogador2 == "tesoura") or \
 # Caso 3: Se não empatou e o Jogador 1 não venceu, então o Jogador 2 venceu.
 else:
     print("Resultado: Jogador 2 venceu! Parabéns!")
+
 
 print("\n--- Fim de Jogo ---")
