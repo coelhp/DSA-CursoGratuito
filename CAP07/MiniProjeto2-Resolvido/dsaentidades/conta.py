@@ -110,7 +110,7 @@ class ContaCorrente(Conta):
             raise SaldoInsuficienteError(saldo_disponivel, valor, "Saldo e limite insuficientes.")
 
         # Realizando dedução do valor do saque do saldo
-        self._saldo -= saldo
+        self._saldo -= valor
 
         # Armazenando a transação no histórico
         self._historico.append((datetime.now(), f"Saque de R${valor:.2f}"))
