@@ -1,6 +1,6 @@
 # 🐍 Fundamentos de Linguagem Python — Do Básico a Aplicações de IA
  
-> Repositório com os projetos e estudos de caso desenvolvidos ao longo do curso gratuito da [Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-do-basico-a-aplicacoes-de-ia).
+> Repositório com todos os projetos e estudos de caso desenvolvidos ao longo do curso gratuito da [Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-do-basico-a-aplicacoes-de-ia).
  
 ---
  
