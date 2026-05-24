@@ -49,7 +49,7 @@ A proposta é uma trilha completa e estruturada, que leva o aluno do zero absolu
  
 ---
  
-## 🚀 Mini-Projetos
+## 🚀 Mini-Projetos:
  
 | # | Título | Principais Bibliotecas |
 |---|--------|------------------------|
@@ -66,7 +66,7 @@ A proposta é uma trilha completa e estruturada, que leva o aluno do zero absolu
  
 ---
  
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas:
  
 - **Linguagem:** Python 3.x
 - **Ambiente:** Jupyter Notebook / VS Code
