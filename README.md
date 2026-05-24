@@ -86,7 +86,7 @@ A proposta é uma trilha completa e estruturada, que leva o aluno do zero absolu
 - Python 3.8 ou superior instalado
 - `pip` ou `conda` para gerenciamento de pacotes
  
-### Passo a passo:
+### Passo a passo
  
 ```bash
 # 1. Clone este repositório
@@ -112,7 +112,7 @@ python main.py
  
 ---
  
-## 📚 Conteúdo Programático do Curso:
+## 📚 Conteúdo Programático do Curso
  
 O curso é estruturado em capítulos progressivos que cobrem:
  
@@ -132,19 +132,19 @@ O curso é estruturado em capítulos progressivos que cobrem:
  
 ---
  
-## 🎓 Certificações:
+## 🎓 Certificações
  
 Este curso oferece **certificado gratuito** de conclusão ao final. Para mais detalhes, acesse o portal da DSA.
  
 ---
  
-## 🤝 Contribuições:
+## 🤝 Contribuições
  
 Este repositório é pessoal e de caráter educativo. Sugestões e melhorias são bem-vindas! Abra uma *issue* ou envie um *pull request*.
  
 ---
  
-## 📄 Licença:
+## 📄 Licença
  
 Este repositório está licenciado sob a [MIT License](LICENSE).  
 O conteúdo do curso é de propriedade da **Data Science Academy** — consulte os [termos de uso](https://www.datascienceacademy.com.br) da plataforma.
