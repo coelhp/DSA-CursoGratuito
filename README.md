@@ -39,7 +39,7 @@ A proposta é uma trilha completa e estruturada, que leva o aluno do zero absolu
  
 ---
  
-## 🧪 Estudos de Caso
+## 🧪 Estudos de Caso:
  
 | # | Título | Tecnologias |
 |---|--------|-------------|
