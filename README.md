@@ -79,7 +79,7 @@ A proposta é uma trilha completa e estruturada, que leva o aluno do zero absolu
  
 ---
  
-## ▶️ Como Executar os Projetos
+## ▶️ Como Executar os Projetos:
  
 ### Pré-requisitos
  
@@ -112,7 +112,7 @@ python main.py
  
 ---
  
-## 📚 Conteúdo Programático do Curso
+## 📚 Conteúdo Programático do Curso:
  
 O curso é estruturado em capítulos progressivos que cobrem:
  
@@ -132,7 +132,7 @@ O curso é estruturado em capítulos progressivos que cobrem:
  
 ---
  
-## 🎓 Certificações
+## 🎓 Certificações:
  
 Este curso oferece **certificado gratuito** de conclusão ao final. Para mais detalhes, acesse o portal da DSA.
  
