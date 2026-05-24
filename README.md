@@ -4,7 +4,7 @@
  
 ---
  
-## 📌 Sobre o Curso:
+## 📌 Sobre o Curso
  
 O curso **Fundamentos de Linguagem Python — Do Básico a Aplicações de IA** é oferecido gratuitamente pela **Data Science Academy (DSA)**, a maior plataforma de ensino online de Ciência de Dados e Inteligência Artificial da América Latina.
  
@@ -15,7 +15,7 @@ A proposta é uma trilha completa e estruturada, que leva o aluno do zero absolu
  
 ---
  
-## 🗂️ Estrutura do Repositório:
+## 🗂️ Estrutura do Repositório
  
 ```
 .
@@ -39,7 +39,7 @@ A proposta é uma trilha completa e estruturada, que leva o aluno do zero absolu
  
 ---
  
-## 🧪 Estudos de Caso:
+## 🧪 Estudos de Caso
  
 | # | Título | Tecnologias |
 |---|--------|-------------|
