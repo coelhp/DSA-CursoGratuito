@@ -147,4 +147,4 @@ Este repositório é pessoal e de caráter educativo. Sugestões e melhorias sã
 ## 📄 Licença
  
 Este repositório está licenciado sob a [MIT License](LICENSE).  
-O conteúdo do curso é de propriedade da **Data Science Academy** — consulte os [termos de uso](https://www.datascienceacademy.com.br) da plataforma.
+O conteúdo do curso é de propriedade da **Data Science Academy**, consulte os [termos de uso](https://www.datascienceacademy.com.br) da plataforma.
