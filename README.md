@@ -43,9 +43,9 @@ A proposta é uma trilha completa e estruturada, que leva o aluno do zero absolu
  
 | # | Título | Tecnologias |
 |---|--------|-------------|
-| 01 | DSA AI Coder — Assistente de IA para Programação Python, em Python | Python, API LLM |
-| 02 | Lógica de Programação — Fundamentos de Python para Construção de Game | Python |
-| 03 | Construindo um LLM do Zero — Arquitetura Transformer | Python, PyTorch |
+| 01 | DSA AI Coder - Assistente de IA para Programação Python, em Python | Python, API LLM |
+| 02 | Lógica de Programação - Fundamentos de Python para Construção de Game | Python |
+| 03 | Construindo um LLM do Zero - Arquitetura Transformer | Python, PyTorch |
  
 ---
  
