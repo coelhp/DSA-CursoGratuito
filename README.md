@@ -1,4 +1,4 @@
-# 🐍 Fundamentos de Linguagem Python — Do Básico a Aplicações de IA | Data Science Academy 
+# 🐍 Fundamentos de Linguagem Python - Do Básico a Aplicações de IA | Data Science Academy 
  
 > Repositório com todos os projetos e estudos de caso desenvolvidos ao longo do curso gratuito da [Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-do-basico-a-aplicacoes-de-ia). (Esse MD precisa de revisão, mudei a hierarquia das pastas)
  
@@ -6,7 +6,7 @@
  
 ## 📌 Curso
  
-O curso **Fundamentos de Linguagem Python — Do Básico a Aplicações de IA** é oferecido gratuitamente pela **Data Science Academy (DSA)**, a maior plataforma de ensino online de Ciência de Dados e Inteligência Artificial da América Latina.
+O curso **Fundamentos de Linguagem Python - Do Básico a Aplicações de IA** é oferecido gratuitamente pela **Data Science Academy (DSA)**, a maior plataforma de ensino online de Ciência de Dados e Inteligência Artificial da América Latina.
  
 A proposta é uma trilha completa e estruturada, que leva o aluno do zero absoluto à criação de soluções de Inteligência Artificial, com foco em aprendizado prático por meio de mini-projetos reais e estudos de caso que simulam desafios do dia a dia de um profissional de dados e IA.
  
