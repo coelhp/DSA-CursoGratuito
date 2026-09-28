@@ -62,7 +62,7 @@ A proposta é uma trilha completa e estruturada, que leva o aluno do zero absolu
 | 07 | *(em desenvolvimento)* | — |
 | 08 | IA Generativa, LLM e RAG para Assistente Jurídico | LangChain, Python |
 | 09 | Deploy de App com Multi-Agentes de IA para Planejamento de Viagens | CrewAI, Groq, Tavily |
-| 10 | Data App — Dashboard Interativo de Sales Analytics | Streamlit |
+| 10 | Data App - Dashboard Interativo de Sales Analytics | Streamlit |
  
 ---
  
