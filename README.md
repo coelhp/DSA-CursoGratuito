@@ -15,7 +15,7 @@ A proposta é uma trilha completa e estruturada, que leva o aluno do zero absolu
  
 ---
  
-## 🗂️ Estrutura do Repositório (em revisão devido alterações no repositório)
+## 🗂️ Estrutura do Repositório (aguardando atualização final de alterações no repositório)
  
 ```
 .
