@@ -30,7 +30,7 @@ A proposta é uma trilha completa e estruturada, que leva o aluno do zero absolu
 │   ├── 04-limpeza-eda-vendas/
 │   ├── 05-modelagem-churn/
 │   ├── 06-classificacao-sentimentos/
-│   ├── 07-[...]
+│   ├── 07-classificacao-imagens/
 │   ├── 08-ia-generativa-llm-rag-juridico/
 │   ├── 09-multi-agentes-planejamento-viagens/
 │   └── 10-dashboard-sales-analytics/
