@@ -41,20 +41,24 @@ As ferramentas de execução podem incluir Python, Jupyter Notebook e um editor 
 
 # 🚀 Como utilizar este repositório
 
-1. Clone o repositório
+### 1. Clone o repositório
 
+```bash
 git clone https://github.com/coelhp/DSA-CursoGratuito.git
 cd DSA-CursoGratuito
+```
 
-2. Acesse o capítulo desejado
+### 2. Acesse o capítulo desejado
 
 Entre na pasta correspondente ao conteúdo que deseja estudar.
 
+```bash
 cd CAP04
+```
 
 Substitua CAP04 pelo diretório desejado.
 
-3. Abra os arquivos
+### 3. Abra os arquivos
 
 * Jupyter Notebook (.ipynb): abra em um ambiente Jupyter compatível.
 * Scripts Python (.py): execute com uma instalação compatível do Python.
@@ -62,17 +66,17 @@ Substitua CAP04 pelo diretório desejado.
 
 Caso algum exercício exija bibliotecas adicionais, instale as dependências indicadas no próprio projeto.
 
-📚 Organização dos estudos
+# 📚 Organização dos estudos
 
 Cada diretório corresponde a uma parte do material desenvolvido durante o curso. A organização por capítulos facilita a navegação, a revisão dos conteúdos e o acompanhamento das atividades realizadas.
 
-📌 Observações
+# 📌 Observações
 
 Este é um repositório pessoal de estudos, mantido para fins educacionais e para registrar a prática dos conceitos aprendidos durante o curso.
 
 Os conteúdos podem ser atualizados conforme o avanço dos estudos.
 
-🔗 Referência
+# 🔗 Referência
 
 * Data Science Academy
 * Repositório no GitHub
