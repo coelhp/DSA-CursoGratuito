@@ -1,13 +1,14 @@
-🐍 Fundamentos de Python: Curso Gratuito DSA
+# 🐍 Fundamentos de Python: Curso Gratuito DSA
 
 Repositório dedicado aos estudos, exercícios e projetos desenvolvidos durante o curso gratuito de Fundamentos de Linguagem Python, oferecido pela Data Science Academy (DSA).
 
 O objetivo é reforçar conceitos de programação, praticar a resolução de problemas e consolidar conhecimentos por meio dos exercícios e atividades desenvolvidos ao longo do curso.
 
-📂 Estrutura do Repositório
+# 📂 Estrutura do Repositório
 
 Os materiais estão organizados em diretórios identificados pelos capítulos do curso.
 
+```text
 DSA-CursoGratuito/
 ├── CAP04/
 ├── CAP05/
@@ -20,10 +21,11 @@ DSA-CursoGratuito/
 ├── CAP11/
 ├── CAP13/
 └── README.md
+```
 
 A estrutura acima representa as pastas identificadas na raiz do repositório. Consulte cada capítulo para conhecer os exercícios, notebooks, scripts e projetos disponíveis.
 
-🎯 Objetivos
+# 🎯 Objetivos
 
 * Revisar e consolidar fundamentos da linguagem Python.
 * Praticar conceitos de programação por meio de exercícios.
@@ -31,13 +33,13 @@ A estrutura acima representa as pastas identificadas na raiz do repositório. Co
 * Registrar a evolução do aprendizado e manter os estudos acessíveis.
 * Construir uma base para estudos posteriores em análise de dados e inteligência artificial.
 
-🛠️ Tecnologias e Ferramentas
+# 🛠️ Tecnologias e Ferramentas
 
 Os materiais devem ser consultados individualmente para identificar as tecnologias e bibliotecas utilizadas em cada atividade.
 
 As ferramentas de execução podem incluir Python, Jupyter Notebook e um editor de código compatível, conforme o formato dos arquivos disponíveis.
 
-🚀 Como utilizar este repositório
+# 🚀 Como utilizar este repositório
 
 1. Clone o repositório
 
