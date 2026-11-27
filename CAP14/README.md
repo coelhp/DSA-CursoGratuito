@@ -1,4 +1,4 @@
-# TESTE INDEX
+# TESTE
 ## TESTE INDEX
 ### TESTE FORMATAÇÃO
 #### teste
